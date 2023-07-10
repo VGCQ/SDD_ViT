@@ -29,6 +29,3 @@ If you find this useful for your research, please cite the following paper.
 @inproceedings{
 }
 ```
-
-## Contact
-If you have any questions on these codes, please don't hesitate to contact me at mailto:victor.quetu@telecom-paris.fr
