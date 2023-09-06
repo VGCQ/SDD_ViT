@@ -1,6 +1,14 @@
 # Sparse Double Descent in Vision Transformers: real or phantom threat?
 
-This GitHub implements the key experiments of the following paper : [Sparse Double Descent in Vision Transformers: real or phantom threat?](https://www.google.fr).
+[![arXiv](https://img.shields.io/badge/arXiv-2102.03773-b31b1b.svg)](https://arxiv.org/pdf/2307.14253.pdf)
+
+This GitHub implements the key experiments of the following paper : [Sparse Double Descent in Vision Transformers: real or phantom threat?](https://arxiv.org/pdf/2307.14253.pdf).
+
+## Occurrence of Sparse Double Descent in Vision Transformers?
+
+![teaser](images/SDD.png)
+
+Figure: Test accuracy of ViT on **(Left.)** CIFAR-10 and **(Right.)** CIFAR-100 with different amount of label noise $\varepsilon$.
 
 ## Libraries
 * Python = 3.10
