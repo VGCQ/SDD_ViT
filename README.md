@@ -34,12 +34,13 @@ To run a ResNet-18 on CIFAR-100 with 20% of label noise, batch size of 128, lear
 ## Citation
 If you find this useful for your research, please cite the following paper.
 ```
-@misc{quétu2023sparse,
-      title={Sparse Double Descent in Vision Transformers: real or phantom threat?}, 
-      author={Victor Quétu and Marta Milovanovic and Enzo Tartaglione},
-      year={2023},
-      eprint={2307.14253},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{quetu2023sparse,
+  title={Sparse Double Descent in Vision Transformers: real or phantom threat?},
+  author={Qu{\'e}tu, Victor and Milovanovi{\'c}, Marta and Tartaglione, Enzo},
+  booktitle={International Conference on Image Analysis and Processing},
+  pages={490--502},
+  year={2023},
+  organization={Springer}
 }
+
 ```
