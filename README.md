@@ -1,6 +1,7 @@
 # Sparse Double Descent in Vision Transformers: real or phantom threat?
 
 [![arXiv](https://img.shields.io/badge/arXiv-2102.03773-b31b1b.svg)](https://arxiv.org/pdf/2307.14253.pdf)
+[![DOI](https://zenodo.org/badge/doi/10.1007/978-3-031-43153-1_41.svg)](http://dx.doi.org/10.1007/978-3-031-43153-1_41)
 
 This GitHub implements the key experiments of the following paper : [Sparse Double Descent in Vision Transformers: real or phantom threat?](https://arxiv.org/pdf/2307.14253.pdf).
 
