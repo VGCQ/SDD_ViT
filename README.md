@@ -1,9 +1,30 @@
-# Sparse Double Descent in Vision Transformers: real or phantom threat?
+<div align="center">
+  <div>
+  <h1>Sparse Double Descent in Vision Transformers: real or phantom threat?</h1> 
 
-[![arXiv](https://img.shields.io/badge/arXiv-2102.03773-b31b1b.svg)](https://arxiv.org/pdf/2307.14253.pdf)
-[![DOI](https://zenodo.org/badge/doi/10.1007/978-3-031-43153-1_41.svg)](http://dx.doi.org/10.1007/978-3-031-43153-1_41)
+[![Static Badge](https://img.shields.io/badge/SDD_ViT-arXiv-red)](https://arxiv.org/abs/2307.14253)
+[![Static Badge](https://img.shields.io/badge/SDD_ViT-Springer-blue)](https://link.springer.com/chapter/10.1007/978-3-031-43153-1_41)
 
-This GitHub implements the key experiments of the following paper : [Sparse Double Descent in Vision Transformers: real or phantom threat?](https://arxiv.org/pdf/2307.14253.pdf).
+  </div>
+
+</div>
+
+<div align="center">
+
+<div>
+    <a href='' target='_blank'>Victor Quétu</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Marta Milovanovic</a><sup>1</sup>&emsp;
+    <a href='' target='_blank'>Enzo Tartaglione</a><sup>1</sup>&emsp;  
+</div>
+<div>
+<sup>1</sup>LTCI, Télécom Paris, Institut Polytechnique de Paris&emsp;  
+
+</div>
+</div> <br>
+
+📣 Published as a conference paper at ICIAP 2023.  <br>
+
+This GitHub implements the key experiments of the following paper : [Sparse Double Descent in Vision Transformers: real or phantom threat?](https://arxiv.org/abs/2307.14253).
 
 ## Occurrence of Sparse Double Descent in Vision Transformers?
 
